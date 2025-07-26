@@ -13,11 +13,8 @@ To explore Netflix viewing habits and infer potential user profiles using visual
 
 ## Files
 - `Netflix_who's_watching.ipynb` — Main notebook with analysis and visualizations
+- `Netflix_Viewing_Logs_Dataset.csv` — Dataset 
 
-## Key Highlights
-- Performed EDA to identify peak watching hours, user trends, and genre preferences
-- Applied clustering to identify user profiles
-- Generated heatmaps and time-based plots to visualize viewing patterns
 
 ## Run the Project
 You can open the notebook in Jupyter and run all cells to see the analysis unfold.
