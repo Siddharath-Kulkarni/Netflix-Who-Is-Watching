@@ -3,7 +3,7 @@
 This project uses viewing data from Netflix to understand user behavior and answer the question: "Who's watching?" through data analysis and pattern recognition.
 
 ## Objective
-To explore Netflix viewing habits and infer potential user profiles using visualizations and unsupervised learning techniques.
+To explore Netflix viewing habits and infer potential user profiles using visualizations techniques.
 
 ## Tools & Technologies
 - Python
